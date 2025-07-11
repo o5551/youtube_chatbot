@@ -15,6 +15,11 @@ This project is a smart chatbot that extracts transcript data from YouTube video
 
 ---
 
+System Architecture:
+
+![YouTube Chatbot Demo](assets/chatbot-demo.png)
+
+
 ## 🧠 Tech Stack
 
 - **Python**
